@@ -8,6 +8,7 @@
 - Tatiane Moura          RA: 1900577
 
 ## Pages
+- HomePage
 - CadastroProcessoPage
 - MensagemProcessoPage
 - ProcessoListaPage
